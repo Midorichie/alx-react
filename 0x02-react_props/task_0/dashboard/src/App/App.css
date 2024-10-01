@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.App-body {
+  padding: 2rem;
+}
+
+/* Remove header, footer, and login styles */
+
+/* Keep any other existing App-specific styles */
